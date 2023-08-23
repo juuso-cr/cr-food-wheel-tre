@@ -1,199 +1,52 @@
 {
     "list": [
         {
-            "name": "Pompier",
+            "name": "Valssi",
             "tags": [
                 "buffet"
             ],
-            "website": "https://pompier.fi/espa/"
+            "website":"https://www.vapriikki.fi/ravintola"
         },
         {
-            "name": "Haiku",
-            "tags": [
-                "buffet", "sushi"
-            ],
-            "website": "https://www.haikusushi.fi/kampgalleria"
-        },
-        {
-            "name": "Friends & Brgrs",
-            "tags": [
-                "burger", "menu", "vegan"
-            ],
-            "website": "https://www.friendsandbrgrs.fi/en/"
-        },
-        {
-            "name": "Paisano",
-            "tags": [
-                "menu", "vegan"
-            ],
-            "website": "https://www.paisano.fi/lunch/"
-        },
-        {
-            "name": "Block",
-            "tags": [
-                "buffet"
-            ],
-            "website": "https://www.dylan.fi/block"
-        },
-        {
-            "name": "Bank",
-            "tags": [
-                "buffet"
-            ],
-            "website": "https://www.ravintolabank.fi/en/lunch-club/"
-        },
-        {
-            "name": "Old Boy",
-            "tags": [
-                "vegan", "menu"
-            ],
-            "website": "https://www.oldboy.fi/#menu-section",
-            "note": "Only open on fridays in summer"
-        },
-        {
-            "name": "Robert's",
-            "tags": [
-                "buffet", "vegan"
-            ]
-        },
-        {
-            "name": "Momotoko",
-            "tags": [
-                "ramen", "vegan"
-            ],
-            "website": "https://momotoko.com/en/lunch/"
-        },
-        {
-            "name": "Pupu",
-            "tags": [
-                "menu", "vegan"
-            ],
-            "website": "https://pupu.fi/"
-        },
-        {
-            "name": "Kita",
-            "tags": [
-                "buffet", "sushi"
-            ],
-            "website": "http://www.kitaravintola.fi/"
-        },
-        {
-            "name": "Waffdaddy",
-            "tags": [
-                "menu", "vegan"
-            ],
-            "website": "https://www.waffdaddy.fi/"
-        },
-        {
-            "name": "Social burger joint",
-            "tags": [
-                "burger", "menu"
-            ],
-            "website": "https://burgerjoint.fi/"
-        },
-        {
-            "name": "The Tray",
-            "tags": [
-                "buffet"
-            ],
-            "website": "https://www.glohotels.fi/en/hotels/glo-kluuvi/restaurant/the-tray-lunch"
-        },
-        {
-            "name": "The Other One",
-            "tags": [
-                "buffet", "vegan"
-            ],
-            "website": "https://www.kluuvi.fi/lounaslistat/"
-        },
-        {
-            "name": "Story",
-            "tags": [
-                "vegan", "menu"
-            ],
-            "website": "https://story-restaurants.fi/menu/kauppahalli/"
-        },
-        {
-            "name": "Zucchini",
-            "tags": [
-                "vegan"
-            ]
-        },
-        {
-            "name": "Sandwich Club",
-            "tags":[
-                "menu"
-            ],
-            "website": "https://www.sandwichclub.fi/",
-            "note": "Not open on mondays"
-        },
-        {
-            "name": "Kiila",
-            "tags":[
-                "menu", "vegan"
-            ],
-            "website": "https://www.ravintolakiila.fi/lounas"
-        },
-        {
-            "name": "Suburritos",
-            "tags":[
-                "menu"
-            ],
-            "website": "http://suburritos.fi/menu/?lang=en"
-        },
-        {
-            "name": "Eat Poke HKI",
-            "tags": [
-                "buffet", "pokebowl"
-            ],
-            "website": "https://www.facebook.com/eatpokehkiofficial/"
-        },
-        {
-            "name": "Cafe Esplanad",
+            "name": "Tammer",
             "tags": [
                 "buffet"
             ]
         },
         {
-            "name": "La Torrefazione",
+            "name":"Pella's cafe",
             "tags": [
-                "vegan", "menu"
-            ],
-            "website": "https://www.latorre.fi/en/location/aleksanterinkatu/lunch"
+                "salad","buffet","gluten-free"
+            ]
         },
         {
-            "name": "Paulig Kulma",
-            "tags": [
-                "buffet"
-            ],
-            "website": "https://www.paulig.com/en/paulig-kulma/menu"
-        },
-        {
-            "name": "Ravintola WTC",
-            "tags": [
-                "buffet", "vegan"
-            ],
-            "website": "https://www.foodandco.fi/ravintolat/Ravintolat-kaupungeittain/helsinki/wtc/"
-        },
-        {
-            "name": "Iguana",
+            "name":"Tampella",
             "tags": [
                 "menu"
-            ],
-            "website": "http://www.iguana.fi/"
+            ]
         },
         {
-            "name": "Santa Fe",
+            "name":"Lie Mi",
+            "tags": [
+                "asian"
+            ]
+        },
+        {
+            "name": "Lotus Garden",
+            "tags": [
+                "buffet","asian"
+            ]
+        },
+        {
+            "name":"Pons",
             "tags": [
                 "menu"
-            ],
-            "website": "http://www.santafe.fi/?lang=en"
+            ]
         },
         {
-            "name": "Ra'amen",
+            "name":"Puisto",
             "tags": [
-                "buffet","ramen"
-            ],
-            "website": "https://raamen.fi/#menu"
-        }
-    ]
+                "expensive","buffet"
+            ]
+        }       
 }
